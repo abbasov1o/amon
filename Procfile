@@ -1,1 +1,1 @@
-worker: python3 -m YtBotAze
+worker: python3 -m AlexaSongBot
