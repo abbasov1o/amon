@@ -1,7 +1,7 @@
 from config import OWNER_ID
 from pyrogram import filters
 from YoutubeMusicAz import app
-from YoutubeMusicAz.mrdarkprince import get_arg
+from YoutubeMusicAz.abbasov1o import get_arg
 from YoutubeMusicAz.sql.chat_sql import load_chats_list, remove_chat_from_db
 from io import BytesIO
 
